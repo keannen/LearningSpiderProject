@@ -1,0 +1,30 @@
+headers = {
+    "Accept":  "application/json, text/javascript, */*; q=0.01",
+    "Accept-Encoding":  "gzip, deflate",
+    "Accept-Language":  "zh-CN,zh;q=0.9",
+    "Connection":  "keep-alive",
+    "Content-Length":  "254",
+    "Content-Type":  "application/x-www-form-urlencoded; charset=UTF-8",
+    "Cookie":  "_ntes_nnid=c000407b48c3c6564b628015fd31facd,1594090394299; OUTFOX_SEARCH_USER_ID_NCOO=1039079104.217199; OUTFOX_SEARCH_USER_ID=-121227433@10.169.0.102; JSESSIONID=aaaGjJJkaWXiHbFVvWfnx; ___rl__test__cookies=1594608199941",
+    "Host":  "fanyi.youdao.com",
+    "Origin":  "http://fanyi.youdao.com",
+    "Referer":  "http://fanyi.youdao.com/",
+    "User-Agent":  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+    "X-Requested-With":  "XMLHttpRequest",
+}
+
+data = {
+    "i":  "学习",
+    "from":  "AUTO",
+    "to":  "AUTO",
+    "smartresult":  "dict",
+    "client":  "fanyideskweb",
+    "salt":  "15946081999471",
+    "sign":  "34377d7b4d40627dd24f24bd835fd23b",
+    "ts":  "1594608199947",
+    "bv":  "94ef9c063d6b2a801fab916722d70203",
+    "doctype":  "json",
+    "version":  "2.1",
+    "keyfrom":  "fanyi.web",
+    "action":  "FY_BY_REALTlME",
+}
