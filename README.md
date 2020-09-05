@@ -28,6 +28,7 @@ LearningSpiderProject：2020/7/11
 
 ##  ScrapyProject
 
+- Scrapy项目主要为页面的数据信息抓取以及数据持久化为主
 - 网易严选  【反爬技术难点：Ajax异步加载信息，经过缜密分析获拼接出json数据接口进行数据获取】
 - 京东
 - 小说
