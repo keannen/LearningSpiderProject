@@ -26,6 +26,18 @@ LearningSpiderProject：2020/7/11
 
 ###  爬虫项目
 
+##  ScrapyProject
+
+- 网易严选  【反爬技术难点：Ajax异步加载信息，经过缜密分析获拼接出json数据接口进行数据获取】
+- 京东
+- 小说
+- 腾讯招聘
+- 百度搜索
+
+
+
+## SpiderProject
+
 - 京东数据爬虫
 
   - 介绍：通过request抓取一级页面的url与产品id，再从二级页面获取详细的产品信息等数据。针对商品评论做分词和数据清洗，将最频繁的关键字通过图片生成云词作展示。
@@ -82,9 +94,7 @@ LearningSpiderProject：2020/7/11
 
 - 快代理（实时获取免费ip即爬即用）【request请求、UserAgent伪造、lxml解析、mysql导入】
 
-- 链家【request请求、UserAgent伪造、lxml解析、mysql导入、csv(导出excel)】
-
-- scrapy百度【scrapy框架】
+- 链家房源信息【request请求、UserAgent伪造、lxml解析、mysql导入、csv(导出excel)】
 
 - pyppeteer学习
 
